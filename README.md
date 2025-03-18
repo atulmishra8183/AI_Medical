@@ -1,2 +1,2 @@
 # AI_Medical
-Ayurvedic Medicinr Assistant 
+Ayurvedic Medicine Assistant 
